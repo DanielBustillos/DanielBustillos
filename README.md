@@ -5,6 +5,5 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on mobility projects
-- 🌱 I’m currently learning data interpolation technics
+- 🌱 I’m currently learning spatial interpolation technics
 - 👯 I’m looking to collaborate on data visualization projects
-- 🤔 I’m looking for help with data analysis
