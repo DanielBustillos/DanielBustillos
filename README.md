@@ -5,6 +5,6 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Professionally working on mobility projects.
-- 🎓 Learning spatial interpolation technics.
+- 🎓 Learning telecomunications
 - 👨🏼‍🏭 Exploring microcontrollers and automation.
 - 👯 I’m looking to collaborate on any of this tree subjects.
