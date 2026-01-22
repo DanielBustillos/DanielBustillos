@@ -11,5 +11,5 @@ I bridge the gap between complex physical phenomena and scalable cloud architect
 ---
 ### 🛠️ Featured Tech Stack
 - **Cloud:** AWS (Lambda, Glue, Athena, SageMaker), Azure.
-- **Languages:** Python (Advanced/OOP), SQL, C++, Rust (Exploring for high-performance trading systems).
+- **Languages:** Python (Advanced/OOP), SQL, C++, Rust (Exploring for real time computation).
 - **Data:** PySpark, PostGIS, MLOps, ETL/ELT.
