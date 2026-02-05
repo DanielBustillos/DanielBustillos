@@ -37,14 +37,6 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@danielbucam-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/danielbucam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanielbustilloscamargo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juandaniel.bucam@gmail.com)
 
----
-
-### Recognition & Media
-
-- **Physicist** with a focus on complex data analysis and mathematical modeling.
-- **AWS Solutions Architect** helping organizations scale in the cloud.
-- Contributor to urban mobility and open data projects at **@ITDPmx**.
