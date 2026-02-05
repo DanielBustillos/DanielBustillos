@@ -19,8 +19,6 @@
 
 ### ☁️ Cloud & System Tools
 - 🏗️ **[Users-self-registration](https://github.com/DanielBustillos/Users-self-registration-Thingsboard-community-edition)** - Secure onboarding for ThingsBoard using AWS Lambda and API Gateway.
-- 🧹 **[MacOS-Notes-app-cleaner](https://github.com/DanielBustillos/MacOS-Notes-app-cleaner)** - Keep your digital brain tidy: utility to clean and format Apple Notes export.
-- ⚙️ **[autocommit](https://github.com/DanielBustillos/autocommit)** - Automating Git workflows to maintain momentum.
 - 🌍 **Geospatial Big Data** - Massive data processing pipelines for @ITDPmx (billions of records).
 
 ### 🔌 IoT & Edge Computing
@@ -28,8 +26,9 @@
 - 🛰️ **[bmi160-micropython-driver](https://github.com/DanielBustillos/bmi160-micropython-driver)** - Lightweight, clean API driver for the Bosch BMI160 IMU.
 - 🪴 **[LilyGo-HiGrow-Micropython](https://github.com/DanielBustillos/LilyGo-HiGrow-Micropython)** - MicroPython port for soil moisture sensors with Blink IoT integration.
 
-  
-
+### Utilities 🧞
+- 🧹 **[MacOS-Notes-app-cleaner](https://github.com/DanielBustillos/MacOS-Notes-app-cleaner)** - Keep your notes app tidy: utility to clean useless notes safely.
+- 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/DanielBustillos)
