@@ -1,6 +1,6 @@
-# Hi, I'm Juan Daniel 👋
+# Hi, I'm Daniel 👋
 
-📍 **Puebla, Mexico** | ☁️ **AWS Solutions Data Architect** | ⚛️ **Physicist** | 🛰️ **Geospatial & IoT Explorer**
+☁️ **AWS Solutions Data Architect** | ⚛️ **Physicist** | 🛰️ **Geospatial & IoT Explorer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
