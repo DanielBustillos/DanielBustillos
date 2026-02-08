@@ -3,12 +3,9 @@
 📍 **Puebla, Mexico** | ☁️ **AWS Solutions Data Architect** | ⚛️ **Physicist** | 🛰️ **Geospatial & IoT Explorer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-7629d7?style=flat-square&logo=micropython&logoColor=white)
 
 > **Data for Good.** Architecting solutions to process billions of geospatial records and building seamless bridges between industrial hardware (IoT) and the cloud.
