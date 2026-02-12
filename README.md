@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-7629d7?style=flat-square&logo=micropython&logoColor=white)
 
 > **Data for Good.** Architecting solutions to process billions of geospatial records and building seamless bridges between industrial hardware (IoT) and the cloud.
