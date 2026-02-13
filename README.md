@@ -23,7 +23,6 @@
 ### Utilities 🧞
 - 🧹 **[MacOS-Notes-app-cleaner](https://github.com/DanielBustillos/MacOS-Notes-app-cleaner)** - Keep your notes app tidy: utility to clean useless notes safely.
 
----
 
 ## Connect
 
