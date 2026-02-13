@@ -9,8 +9,6 @@
 
 > **Data for Good.** Architecting solutions to process billions of geospatial records and building seamless bridges between industrial hardware (IoT) and the cloud.
 
----
-
 ## What I'm Building
 
 ### ☁️ Cloud & System Tools
