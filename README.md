@@ -22,7 +22,7 @@
 
 ### Utilities 🧞
 - 🧹 **[MacOS-Notes-app-cleaner](https://github.com/DanielBustillos/MacOS-Notes-app-cleaner)** - Keep your notes app tidy: utility to clean useless notes safely.
-- 🔑 **[.envCove]([https://github.com/DanielBustillos/MacOS-Notes-app-cleaner](https://github.com/DanielBustillos/envcove))** - Native API key Secret manager for macOs
+- 🔑 **[.envCove](https://github.com/DanielBustillos/MacOS-Notes-app-cleaner](https://github.com/DanielBustillos/envcove)** - Native API key Secret manager for macOs
 
 
 ## Connect
